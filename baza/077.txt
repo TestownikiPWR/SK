@@ -1,0 +1,6 @@
+X0101
+Do g³ównych typów wiadomoœci nale¿¹ (wybierz dwie odpowiedzi):
+wiadomoœci routingowe
+wiadomoœci grupowe
+wiadomoœci pakietowe
+wiadomoœci rozg³oszeniowe

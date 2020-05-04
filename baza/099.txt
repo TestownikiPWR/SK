@@ -1,0 +1,6 @@
+X0110
+Warstwa transportowa jest odpowiedzialna za (wybierz dwie odpowiedzi):
+umieszczanie ramek w medium
+œledzenie indywidualnych konwersacji
+identyfikacjê aplikacji
+identyfikacjê hostów po adresach logicznych

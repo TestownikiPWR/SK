@@ -1,0 +1,6 @@
+X1000
+Dwóch graczy chce zagraæ w grê samochodow¹. Jakiego przewodu musz¹ u¿yæ do po³¹czenia ze sob¹ swoich komputerów:
+z przeplotem
+z przeplotem lub prostego
+prostego
+konsolowego

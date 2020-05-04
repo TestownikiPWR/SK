@@ -1,0 +1,6 @@
+X1000
+Administrator dysponuje zakresem adresowym do którego nale¿y adres 80.80.80.64/25. Potrzebuje przydzieliæ adresy dla dwóch podsieci o licznoœci 31 i 7 hostów (podane liczby uwzglêdniaj¹ rutery). Jakie s¹ adresy podsieci przy za³o¿eniu, ¿e administrator stosuje VLSM
+80.80.80.0, 80.80.80.64
+80.80.80.64, 80.80.80.128
+80.80.80.64, 80.80.80.96
+80.80.80.0, 80.80.80.32

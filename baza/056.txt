@@ -1,0 +1,6 @@
+X0011
+Tryb uprzywilejowany urz¹dzenia (wybierz dwie odpowiedzi):
+jest oznaczony na urz¹dzeniu jako: Nazwa>
+umo¿liwia bezpoœrednie przejœcie do trybu konfiguracji szczegó³owej
+powinien byæ zabezpieczony has³em
+mo¿e byæ bezpoœrednio osi¹gniêty z trybu u¿ytkownika

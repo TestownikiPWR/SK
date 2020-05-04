@@ -1,0 +1,6 @@
+X0010
+Dla sesji HTTP i FTP w warstwie transportowej u¿ywane s¹ protoko³y:
+TCP lub UDP zale¿nie od rodzaju sieci (LAN lub WLAN)
+UDP
+TCP
+TCP i UDP

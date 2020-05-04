@@ -1,0 +1,6 @@
+X0001
+Adres 13.13.0.3/30 jest adresem:
+hosta
+sieciowym
+grupowym
+rozg³oszeniowym

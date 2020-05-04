@@ -1,0 +1,6 @@
+X1100
+Tryb u¿ytkownika urz¹dzenia (wybierz dwie odpowiedzi):
+domyœlnie urz¹dzenie po uruchomieniu znajduje siê w tym trybie
+udostêpnia jedynie ograniczony zestaw podstawowych poleceñ do monitorowania
+umo¿liwia bezpoœrednie przejœcie do trybu konfiguracji
+jest oznaczony na urz¹dzeniu jako: Nazwa(config-user)#

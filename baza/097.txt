@@ -1,0 +1,7 @@
+X10101
+Elementami globalnego adresu adresu indywidualnego IPv6 s¹ (wybierz 3 odpowiedzi):
+identyfikator interfejsu
+identyfikator ISP
+identyfikator podsieci
+identyfikator kraju
+globalny prefiks rutingu

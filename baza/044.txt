@@ -1,0 +1,6 @@
+X1000
+Administrator dysponuje zakresem adresowym, do którego nale¿y adres 148.148.148.128/24. Potrzebuje przydzieliæ adresy dla dwóch podsieci o licznoœci 31 i 30 hostów (podane liczby uwzglêdniaj¹ routery). Jakie s¹ adresy podsieci przy za³o¿eniu, ze administrator stosuje VLSM.
+148.148.148.0, 148.148.148.64
+148.148.148.128, 148.148.148.160
+148.148.148.0, 148.148.148.32
+148.148.148.128, 148.148.148.192

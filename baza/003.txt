@@ -1,0 +1,6 @@
+X1000
+Warstwa ³¹cza danych jest dzielona na podwarstwy:
+LLC i MAC
+MAC i IP
+LLC i IP
+LLC i TCP

@@ -1,0 +1,6 @@
+X0100
+Liczba adresów IPv6 jest:
+taka sama jak liczba adresów IPv4
+wiêksza ni¿ liczba adresów IPv4
+mniejsza od liczby adresów IPv4
+nie mo¿na jej okreœliæ

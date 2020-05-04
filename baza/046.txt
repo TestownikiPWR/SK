@@ -1,0 +1,6 @@
+X0010
+Pole FCS w ramce Ethernet:
+definiuje dok³adn¹ d³ugoœæ pola danych ramki
+okreœla typ przesy³ania danych
+jest wykorzystywane do wykrywania b³êdów w ramce
+jest wykorzystywane do synchronizacji pomiêdzy urz¹dzeniami wysy³aj¹cymi i odbieraj¹cymi dane

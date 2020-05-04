@@ -1,0 +1,6 @@
+X1100
+Startowa konfiguracja urz¹dzenia (wybierz dwie odpowiedzi):
+jest zapisywana w pamiêci NVRAM
+mo¿e zostaæ skasowana poleceniem erase startup-config
+jest kasowana po ponownym uruchomieniu urz¹dzenia
+nie mo¿e zostaæ jako konfiguracja bie¿¹ca

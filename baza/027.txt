@@ -1,0 +1,6 @@
+X0110
+Wybierz poprawne stwierdzenie (wybierz dwie odpowiedzi):
+w sieci z komutacj¹ ³¹czy dane s¹ przesy³ane najlepsz¹ w danej chwili drog¹
+w sieci z komutacj¹ ³¹czy œcie¿ka jest rezerwowana na ca³y okres po³¹czenia
+w sieci z komutacj¹ pakietów dane s¹ przesy³ane najlepsz¹ w danej chwili drog¹
+w sieci z komutacj¹ pakietów œcie¿ka jest rezerwowana na ca³y okres po³¹czenia

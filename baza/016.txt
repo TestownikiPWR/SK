@@ -1,0 +1,6 @@
+X1010
+Które stwierdzenie dotycz¹ce œwiat³owodu jednomodowego jest prawdziwe (wybierz dwie odpowiedzi):
+Ÿród³em œwiat³a jest laser
+umo¿liwia transmisjê na mniejsze odleg³oœci ni¿ wielomodowy
+ma wê¿szy rdzeñ, ni¿ wielomodowy
+u¿ywany jest najczêœciej do budowy sieci LAN

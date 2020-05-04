@@ -1,0 +1,6 @@
+X1001
+Wybierz poprawne stwierdzenia dotycz¹ce kodowania (wybierz dwie odpowiedzi):
+kodowanie to miêdzy innymi przekszta³canie bitów od postaci fali œwietlnej 
+kodowanie nie jest wymagane przy wysy³aniu wiadomoœci przez sieci komputerow¹
+kodowanie nie mo¿e zmieniaæ postaci fizycznej sygna³u
+kodowanie to miedzy innymi przekszta³canie wiadomoœci do postaci bitów

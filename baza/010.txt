@@ -1,0 +1,6 @@
+X1000
+Pole czas ¿ycia (TTL) zawarte w nag³ówku protoko³u IP:
+jest dekrementowane przy przejœciu przez router
+jest inkrementowane przy przejœciu przez router
+jest dekrementowane przy przejœciu przez prze³¹cznik
+jest inkrementowane przy przejœciu przez prze³¹cznik

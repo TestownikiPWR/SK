@@ -1,0 +1,6 @@
+X1000
+Adresami stosowanymi w warstwie czwartej s¹:
+porty
+adresy ARP
+adresy IP
+adresy MAC

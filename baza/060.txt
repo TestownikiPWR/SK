@@ -1,0 +1,6 @@
+X1000
+Jednostk¹ danych w warstwie ³¹cza danych jest:
+ramka
+bit
+segment
+pakiet

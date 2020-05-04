@@ -1,0 +1,6 @@
+X0001
+Podstawowa funkcja protoko³u ARP to:
+odwzorowanie adresów IPv4 na adresy s³owne
+odwzorowanie adresów IPv4 na adresy IPv6
+odwzorowanie adresów IPv6 na adresy MAC
+odwzorowanie adresów IPv4 na adresy MAC

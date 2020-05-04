@@ -1,0 +1,6 @@
+X1000
+Do protoko³ów warstwy transportowej zaliczamy:
+TCP
+ARP
+MAC
+IP

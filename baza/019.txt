@@ -1,0 +1,6 @@
+X0011
+Protoko³y sieciowe (wybierz dwie odpowiedzi):
+opisuj¹ tylko sposób transmisji w warstwie sieciowej
+definiuj¹ budowê urz¹dzeñ sieciowych
+definiuj¹ sposób koñczenia i rozpoczynania transmisji
+opisuj¹ format lub strukturê wiadomoœci

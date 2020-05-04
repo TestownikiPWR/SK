@@ -1,0 +1,6 @@
+X0110
+Brama domyœlna ustawiona na prze³¹czniku (wybierz dwie odpowiedzi):
+jest wymagana do poprawnego dzia³ania prze³¹cznika
+jest niezbêdna do zdalnej konfiguracji prze³¹cznika z innej sieci
+jest wymagana do poprawnego przekazania pakietów przez prze³¹cznik od hosta do bramy domyœlnej
+musi byæ w tej samej sieci co adres interfejsu SVI prze³¹cznika

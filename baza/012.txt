@@ -1,0 +1,6 @@
+X0001
+Zapytanie ARP wysy³ane jest przez urz¹dzenie, gdy:
+nie zna ono adresu IPv4 urz¹dzenia, wpisanego jako adres s³owny
+nie zna ono adresu IPv4 urz¹dzenia docelowego
+nie zna ono adresu MAC urz¹dzenia z sieci zdalnej
+nie zna ono adresu MAC urz¹dzenia z sieci lokalnej

@@ -1,0 +1,6 @@
+X0010
+Które warstwy nale¿¹ do modelu TCP/IP:
+dostêpu do sieci, ³¹cza danych, transportowa
+internet, prezentacji, aplikacji
+dostêp do sieci, transportowa, aplikacji
+rdzeniowa, sieciowa, transportowa

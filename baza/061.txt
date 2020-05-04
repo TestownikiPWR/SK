@@ -1,0 +1,6 @@
+X0001
+Administrator sieci konfiguruje nowe urz¹dzenie poœrednicz¹ce w sieci LAN. Jakiego typu po³¹czenia powinien u¿yæ do konfiguracji nowego urz¹dzenia z domyœlnymi ustawieniami:
+zdalnego przy u¿yciu protoko³u SSH
+zdalnego przy u¿yciu protoko³u Telnet
+ethernetowego
+konsolowego

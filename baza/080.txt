@@ -1,0 +1,6 @@
+X1000
+Masce o prefiksie /23 odpowiada nastêpuj¹cy zapis dziesiêtny:
+255.255.254.0
+255.255.255.0
+255.255.252.0
+255.255.255.128

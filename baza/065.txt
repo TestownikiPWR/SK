@@ -1,0 +1,6 @@
+X0001
+Przy po³¹czeniu szeregowym dwóch ruterów, adres interfejsu szeregowego jednego z ruterów to 172.16.10.253/30. Jaki jest adres interfejsu szeregowego drugiego rutera:
+172.16.10.256
+172.16.10.255
+172.16.10.252
+172.16.10.254

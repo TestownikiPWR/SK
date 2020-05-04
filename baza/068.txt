@@ -1,0 +1,6 @@
+X0010
+Wybierz poprawne stwierdzenie zwi¹zane z komunikacj¹ urz¹dzeñ pracuj¹cych w tej samej sieci:
+ka¿de urz¹dzenie w sieci jako adres bramy domyœlnej musi mieæ wpisany adres IP najbli¿szego rutera w sieci
+ka¿de urz¹dzenie w sieci jako adres bramy domyœlnej musi mieæ wpisany adres IP najbli¿szego prze³¹cznika w sieci
+konfiguracja bramy domyœlnej nie jest wymagana
+ka¿de urz¹dzenie w sieci musi mieæ skonfigurowan¹ bramê domyœln¹

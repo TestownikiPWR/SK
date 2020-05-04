@@ -1,0 +1,6 @@
+X0010
+Adres 172.16.128.128/28 jest adresem:
+hosta
+grupowym
+sieciowym
+rozg³oszeniowym

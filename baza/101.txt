@@ -1,0 +1,6 @@
+X0010
+Wybierz poprawny schemat procesu kapsu³kowania:
+bity->ramka->pakiet->segment->dane
+bity->dane->segment->pakiet->ramka
+dane->segment->pakiet->ramka->bity
+dane->pakiet->segment->ramka->bity

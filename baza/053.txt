@@ -1,0 +1,6 @@
+X0001
+W polu danych ramki Ethernet II przenoszone jest 200 bajtów danych. Jaka jest ca³kowita d³ugoœæ ramki (pola preambu³a, typ i suma kontrolna to w sumie 14 bajtów):
+232 bajty
+222 bajty
+214 bajtów
+226 bajtów

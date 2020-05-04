@@ -1,0 +1,6 @@
+X0011
+Interfejs SVI prze³¹cznika (wybierz dwie odpowiedzi):
+jest to interfejs fizyczny
+nie mo¿e mieæ ustawionego adresu IP
+s³u¿y do zdalnej konfiguracji urz¹dzenia
+jest to interfejs wirtualny

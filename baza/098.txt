@@ -1,0 +1,6 @@
+X1100
+Adres bramy domyœlnej ustawiany na komputerze (wybierz dwie odpowiedzi):
+musi byæ w tej samej sieci co adres komputera
+to adres interfejsu routera brzegowego sieci
+powinien, ale nie musi byæ w tej samej sieci co adres komputera
+to adres interfejsu wirtualnego rutera w danej sieci lokalnej

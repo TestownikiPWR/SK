@@ -1,0 +1,6 @@
+X0010
+Przy po³¹czeniu szeregowym dwóch ruterów, adres interfejsu szeregowego jednego z ruterów to 28.3.81.97/30. Jaki jest adres interfejsu szeregowego drugiego rutera:
+28.3.81.100
+28.3.81.99
+28.3.81.98
+28.3.81.96

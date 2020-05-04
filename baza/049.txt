@@ -1,0 +1,6 @@
+X0001
+Administrator dysponuje zakresem adresowym 200.201.202.0/24. Potrzebuje przydzieliæ adresy do sieci zawieraj¹cej: 56 komputerów, 2 drukarki i 3 rutery. Jaki jest ostatni u¿yteczny adres projektowanej podsieci przy za³o¿eniu, ¿e administrator stosuje VLSM.
+200.201.202.126
+200.201.202.127
+200.201.202.63
+200.201.202.62

@@ -1,0 +1,6 @@
+X0011
+Adres IPv6 ³¹cza lokalnego jest (wybierz dwie odpowiedzi):
+jest rutowalny poza sieæ lokaln¹
+nie jest wymagany na interfejsie, je¿eli zosta³ skonfigurowany globalny adres IPv6
+ograniczony do pojedynczego ³¹cza
+u¿ywany do komunikacji z innymi urz¹dzeniami na tym samym ³¹czu lokalnym

@@ -1,0 +1,6 @@
+X1001
+Dynamiczne wpisy ARP w tablicy (wybierz dwie odpowiedzi):
+mog¹ zostaæ wyœwietlone na komputerze przy u¿yciu komendy „arp –a”
+po wpisaniu do tablicy ARP nie mog¹ zostaæ ju¿ usuniête
+nie s¹ kasowane z tablicy ARP po up³ywie okreœlonego czasu
+s¹ automatycznie wpisywane do tablicy w przypadku komunikacji dwóch urz¹dzeñ w sieci lokalnej

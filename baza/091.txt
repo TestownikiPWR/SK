@@ -1,0 +1,6 @@
+X1010
+Protoko³ami warstwy sieciowej nie s¹ (wybierz dwie odpowiedzi):
+Ethernet
+IPv6
+TCP
+IPv4

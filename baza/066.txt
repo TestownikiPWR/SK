@@ -1,0 +1,6 @@
+X1010
+Które okreœlenia sieciowe nie s¹ definiowane przez standardy warstwy fizycznej (wybierz dwie odpowiedzi):
+format ramki
+z³¹cza
+dostêp do medium
+konstrukcja przewodu

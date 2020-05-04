@@ -1,0 +1,6 @@
+X1001
+Rywalizacyjny dostêp do medium charakteryzuje siê (wybierz dwie odpowiedzi):
+urz¹dzenia mog¹ nadawaæ tylko w okreœlonych chwilach czasowych 
+urz¹dzenia mog¹ nadawaæ w dowolnym momencie
+nie wymaga ¿adnej dodatkowej metody sprawdzania dostêpnoœci medium
+mo¿liwe s¹ kolizje pakietów w medium 

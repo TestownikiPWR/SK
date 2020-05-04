@@ -1,0 +1,6 @@
+X1000
+Gdy komputer wysy³a dane na serwer le¿¹cy poza jego sieci¹ LAN:
+jako docelowy adres IP w pakiecie u¿yje adresu IP bramy domyœlnej
+jako docelowy adres IP w pakiecie nie u¿yje swojego adresu IP
+jako docelowy adres IP w pakiecie nie u¿yje adresu IP serwera
+jako docelowy adres IP w pakiecie u¿yje adresu rozg³oszeniowego IP

@@ -1,0 +1,6 @@
+X1010
+Które flagi nie s¹ u¿ywane przy zakoñczeniu sesji TCP (wybierz dwie odpowiedzi):
+PSH
+ACK
+SYN
+FIN

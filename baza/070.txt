@@ -1,0 +1,6 @@
+X0101
+Protokó³ TCP jest u¿ywany, gdy (wybierz dwie odpowiedzi):[ja tu widzê 3 dobre odpowiedzi...]
+wymagany jest ma³y narzut nag³ówka datagramu w sieci
+aplikacja jest niewra¿liwa na du¿e opóŸnienia
+aplikacja jest niewra¿liwa na datagramy przychodz¹ce w niew³aœciwej kolejnoœci
+aplikacja jest wra¿liwa na b³êdy transmisji

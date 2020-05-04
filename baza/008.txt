@@ -1,0 +1,6 @@
+X1001
+System operacyjny IOS routera Cisco (wybierz dwie odpowiedzi):
+w razie koniecznoœci mo¿e zostaæ zmieniony lub nadpisany
+nie umo¿liwia konfiguracjê interfejsów routera
+nie mo¿e zostaæ zaktualizowany
+mo¿e wystêpowaæ w kilku wersjach, które mog¹ byæ zapisane w pamiêci urz¹dzenia

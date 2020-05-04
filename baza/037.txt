@@ -1,0 +1,6 @@
+X1000
+Sieæ konwergentna to:
+sieæ, w której ró¿ne typy us³ug przesy³ane s¹ przy u¿yciu tego samego medium
+sieæ, w której osi¹gniêto zbie¿noœæ protoko³ów routingu
+sieæ, w której te same typy us³ug przesy³ane s¹ przy u¿yciu ró¿nych medium
+sieæ, w której ró¿ne typy us³ug przesy³ane s¹ przy u¿yciu ró¿nych medium

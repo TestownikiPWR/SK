@@ -1,0 +1,6 @@
+X1100
+Bie¿¹ca konfiguracja urz¹dzeñ z system Cisco IOS (wybierz dwie odpowiedzi):
+jest kasowana po ponownym uruchomieniu urz¹dzenia
+jest zapisywana w pamiêci RAM
+nie mo¿e zostaæ zapisana jako konfiguracja startowa
+mo¿e zostaæ skasowana poleceniem erase running-config

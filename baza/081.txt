@@ -1,0 +1,6 @@
+X0101
+Identyfikator interfejsu dla IPv6 (wybierz dwie odpowiedzi):
+jest generowany przez ruter przy u¿yciu metody SLAAC
+mo¿e zostaæ wygenerowany losowo
+nie jest generowany przez serwer w przypadku u¿ycia DHCPv6
+mo¿e zostaæ wygenerowany przy u¿yciu metody EUI-64

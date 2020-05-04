@@ -1,0 +1,6 @@
+X0011
+Po³¹czenie przy u¿yciu protoko³u Telnet z routerem Cisco (wybierz dwie odpowiedzi):
+zapewnia dostêp do urz¹dzeñ nawet, gdy ma ono nieaktywne interfejsy sieciowe
+nie powinno byæ zabezpieczone has³em, poniewa¿ utrudnia to dostêp do urz¹dzenia
+umo¿liwia zdaln¹ konfiguracjê urz¹dzenia
+nie wymaga u¿ycia odpowiedniego przewodu

@@ -1,0 +1,6 @@
+X0100
+Wybierz poprawn¹ odpowiedŸ dotycz¹c¹ podwarstwy LLC:
+dokonuje adresacji
+wykrywa b³êdy
+kontroluje dostêp do medium
+pozostaje niezale¿na od fizycznego sprzêtu

@@ -1,0 +1,6 @@
+X1000
+Numer portu przyporz¹dkowany do protoko³u HTTP to:
+80
+69
+25
+53

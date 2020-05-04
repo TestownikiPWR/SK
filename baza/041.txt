@@ -1,0 +1,6 @@
+X0001
+Odleg³oœæ administracyjna dla danej trasy w tablicy routingu:
+oznacza odleg³oœæ do hosta docelowego
+oznacza odleg³oœæ do nastêpnego przeskoku
+oznacza liczbê przeskoków na trasie do hosta docelowego
+oznacza jej wiarygodnoœæ

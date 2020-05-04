@@ -1,0 +1,6 @@
+X0001
+Host otrzyma³ datagram z numerem potwierdzenia równym 250. Oznacza to, ¿e:
+powinien teraz wys³aæ datagram z numerem potwierdzenia 251
+powinien teraz wys³aæ datagram z numerem potwierdzenia 250
+powinien teraz wys³aæ datagram z numerem sekwencyjnym 251
+powinien teraz wys³aæ datagram z numerem sekwencyjnym 250

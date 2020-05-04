@@ -1,0 +1,6 @@
+X0100
+Do interfejsu rutera zosta³ przypisany ostatni adres u¿yteczny sieci 172.16.1.240/29. Adres ten to:
+172.16.1.247
+172.16.1.246
+172.16.1.241
+172.16.1.254

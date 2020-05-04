@@ -1,0 +1,6 @@
+X1010
+Które stwierdzenia dotycz¹ce protoko³u CSMA s¹ poprawne (wybierz dwie odpowiedzi):
+jest to metoda rywalizacyjnego dostêpu do medium
+przy u¿yciu tego protoko³u niemo¿liwe jest wyst¹pienie kolizji
+przed nadaniem informacji urz¹dzenia sprawdzaj¹ dostêpnoœæ medium
+nadawaæ mo¿e tylko urz¹dzenie, które posiada specjalny token

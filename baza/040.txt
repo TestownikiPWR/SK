@@ -1,0 +1,6 @@
+X0100
+Administrator dysponuje zakresem adresowym do którego nale¿y adres 192.168.1.64/25. Potrzebuje dwie podsieci o wymaganej liczbie adresów dla urz¹dzeñ 6 i 31. Adres mniejszej podsieci to:
+192.168.1.0
+192.168.1.64
+192.168.1.128
+192.168.1.32

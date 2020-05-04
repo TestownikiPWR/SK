@@ -1,0 +1,6 @@
+X0101
+Wybierz poprawn¹ odpowiedŸ dotycz¹c¹ warstwy ³¹cza danych (wybierz dwie odpowiedzi):
+jest odpowiedzialna za przekszta³cenie bitów na sygna³y elektryczne propagowane w kablu miedzianym
+posiada dwie podwarstwy MAC oraz LLC
+kontroluje jak dane s¹ umieszczane w medium
+jest odpowiedzialna za korekcjê b³êdów

@@ -1,0 +1,6 @@
+X1000
+Jedn¹ z ról warstwy sieciowej jest:
+wyznaczenie najlepszej trasy przes³ania pakietu od Ÿród³a do celu
+opis metod wymiany ramek pomiêdzy urz¹dzeniami po³¹czonymi wspólnym medium
+segmentacja, transferu oraz sk³adania danych
+umo¿liwienie komunikacji pomiêdzy stacj¹ robocz¹ w cieci a cz³owiekiem

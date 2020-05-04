@@ -1,0 +1,6 @@
+X0001
+Skrêcanie ¿y³ w kablu UTP ma za zadanie:
+u³atwienie zamocowania z³¹cza RJ-45
+nadanie odpowiedniej elastycznoœci przewodu
+nie ma ¿adnego specjalnego zadania
+kasowanie zak³óceñ pochodz¹cych od drugiego przewodu w parze

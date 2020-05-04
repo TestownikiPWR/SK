@@ -1,0 +1,6 @@
+X1001
+Przewód z przeplotem powinien zostaæ u¿yty do po³¹czenia (wybierz dwie odpowiedzi):
+router – komputer
+prze³¹cznik – komputer
+prze³¹cznik – router
+router – router

@@ -1,0 +1,6 @@
+X1001
+Wybierz poprawne stwierdzenie dotycz¹ce segmentacji (wybierz dwie odpowiedzi):
+dzieli ci¹g danych na segmenty
+zwiêksza poziom skomplikowania w sieci
+segment nie musi mieæ nag³ówka
+segmentacja umo¿liwia identyfikacjê aplikacji wysy³aj¹cej dane

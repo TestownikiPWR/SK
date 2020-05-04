@@ -1,0 +1,6 @@
+X0101
+Prze³¹cznik warstwy drugiej (wybierz dwie odpowiedzi):
+nie wymaga u¿ycia ruterów do przekazania ruchu do innej sieci
+prze³¹cza i filtruje ramki na podstawie adresów MAC
+zawsze wysy³a pakiety na wszystkie swoje porty
+buduje w³asn¹ tablice MAC, któr¹ nastêpnie u¿ywa przy podejmowaniu decyzji

@@ -1,0 +1,6 @@
+X0010
+Przy po³¹czeniu szeregowym dwóch routerów , adres interfejsu szeregowego jednego z routerów to 20.21.22.82/30. Jaki jest adres interfejsu szeregowego drugiego rutera:
+20.21.22.83
+20.21.22.84
+20.21.22.81
+20.21.22.80

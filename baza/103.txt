@@ -1,0 +1,6 @@
+X0110
+System operacyjny urz¹dzenia (wybierz dwie odpowiedzi):
+jest to aplikacja, któr¹ u¿ytkownik musi rêcznie uruchomiæ przy starcie urz¹dzenia
+jest kopiowany do pamiêci RAM routera przy jego starcie
+umo¿liwia obs³ugê myszy w komputerze
+nie zezwala na obs³ugê urz¹dzeñ peryferyjnych

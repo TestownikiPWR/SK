@@ -1,0 +1,6 @@
+X0100
+Wybierz poprawn¹ odpowiedŸ dotycz¹c¹ podwarstwy MAC:
+pozostaje niezale¿na od fizycznego sprzêtu
+kontroluje dostêp do medium
+identyfikuje protokó³ warstwy sieciowej
+tworzy po³¹czenie z wy¿szymi warstwami

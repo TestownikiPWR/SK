@@ -1,0 +1,7 @@
+X11001
+Zadaniami warstwy trzeciej s¹ (wybierz 3 odpowiedzi):
+adresowanie
+ruting
+segmentacja
+scalanie
+enkapsulacja

@@ -1,0 +1,6 @@
+X0001
+Trzy g³ówne komponenty w sieci to:
+media, us³ugi, aplikacje
+urz¹dzenia, media, przewody miedziane i œwiat³owodowe
+urz¹dzenia koñcowe, urz¹dzenia poœrednicz¹ce, us³ugi
+urz¹dzenia, media, us³ugi

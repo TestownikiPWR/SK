@@ -1,0 +1,6 @@
+X1001
+Brama domyœlna w sieci LAN (wybierz dwie odpowiedzi):
+jest to ruter brzegowy na styku sieci LAN i WAN
+jest to prze³¹cznik brzegowy na styku sieci LAN i WAN
+jest u¿ywana przez komputer do przesy³ania pakietów w LAN
+jest u¿ywana przez komputer do przesy³ania pakietów poza LAN

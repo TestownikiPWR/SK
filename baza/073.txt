@@ -1,0 +1,6 @@
+X1100
+Wybierz poprawne stwierdzenie dotycz¹ce adresu ³¹cza lokalnego IPv6 (wybierz dwie odpowiedzi):
+adres ten jest wymagany do komunikacji z innymi IPv6 urz¹dzeniami w tej samej sieci
+adres ³¹cza lokalnego rutera jest wykorzystywany jako adres bramy domyœlnej
+jest niezmienialny i ustawiony przez producenta karty sieciowej
+musi zostaæ ustawiony rêcznie przed ustawieniem globalnego adresu indywidualnego

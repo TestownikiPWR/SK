@@ -1,0 +1,6 @@
+X0011
+Wybierz dwa poprawne stwierdzenia dotycz¹ce stosu protoko³ów (wybierz dwie odpowiedzi):
+u¿ycie protoko³ów otwartych wymaga zgody ich twórców
+protokó³ IPv6 nie nale¿y do stosu TCP/IP
+stos protoko³ów TCP/IP tworz¹ otwarte standardy
+stos protoko³ów jest zbiorem protoko³ów wspó³pracuj¹cych ze sob¹ w celu zapewnienia komunikacji w sieci

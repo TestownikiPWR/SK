@@ -1,0 +1,6 @@
+X0010
+Za wys³anie informacji o zmniejszenie rozmiaru okna transmisji w protokole TCP odpowiada:
+nadawca
+odbiorca lub nadawca
+odbiorca
+urz¹dzenie poœrednicz¹ce

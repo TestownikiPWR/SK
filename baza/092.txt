@@ -1,0 +1,6 @@
+X1010
+Adres rozg³oszeniowy IPv4 w zapisie binarnym w czêœci hosta zawiera (wybierz dwie odpowiedzi):
+liczba jedynek zale¿y od maski podsieci
+same wartoœci 0xFF
+same jedynki
+same zera

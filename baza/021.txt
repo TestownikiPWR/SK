@@ -1,0 +1,6 @@
+X0100
+Do interfejsu rutera zosta³ przypisany ostatni adres u¿yteczny sieci 10.12.110.192/26. Adres ten to:
+10.12.110.223
+10.12.110.254
+10.12.110.255
+10.12.110.222

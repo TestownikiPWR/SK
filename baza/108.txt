@@ -1,0 +1,6 @@
+X0001
+Administrator dysponuje zakresem adresowym, do którego nale¿y adres 48.48.48.224/26. Próbuje przydzieliæ adresy dla dwóch podsieci o licznoœci 7 i 2 hostów (podane liczby uwzglêdniaj¹ routery). Jakie s¹ adresy podsieci przy za³o¿eniu, ze administrator stosuje VLSM.
+48.48.48.224, 48.48.48.240
+48.48.48.128, 48.48.48.144
+48.48.48.192, 48.48.48.200
+48.48.48.192, 48.48.48.208

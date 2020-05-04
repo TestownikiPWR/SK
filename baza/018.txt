@@ -1,0 +1,6 @@
+X0101
+Komputer w swojej tablicy routingu zawiera adres (wybierz dwie odpowiedzi):
+rozg³oszeniowy
+sieci lokalnej
+docelowy adres urz¹dzenia z sieci zdalnej, do którego wysy³ane s¹ pakiety
+sieci zdalnej, do którego wykonano próbê komunikacji (0.0.0.0 0.0.0.0)

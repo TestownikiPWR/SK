@@ -1,0 +1,6 @@
+X0011
+Sieæ Internet (wybierz dwie odpowiedzi):
+bazuje na stosie protoko³ów firmy Novell
+ma jednego administratora
+jest to zestaw po³¹czonych sieci
+jest niezale¿na od medium fizycznego

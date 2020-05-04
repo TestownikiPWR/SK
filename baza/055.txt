@@ -1,0 +1,6 @@
+X0100
+Identyfikator interfejsu dla adresu IPv6 z prefiksem /64:
+stanowi czwarty hekstet adresu
+stanowi ostatnie 64 bity adresu
+stanowi pierwszy hekstet adresu
+stanowi pierwsze 64 bity adresu

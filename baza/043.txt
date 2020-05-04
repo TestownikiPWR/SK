@@ -1,0 +1,6 @@
+X0010
+Administrator dysponuje zakresem adresowym, do którego nale¿y adres 156.17.31.192/25. Potrzebuje dwie podsieci o wymaganej liczbie adresów dla urz¹dzeñ  8 i 14. Adres mniejszej podsieci to:
+156.17.31.0
+156.17.31.208
+156.17.31.144
+156.17.31.16

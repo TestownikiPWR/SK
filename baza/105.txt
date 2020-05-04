@@ -1,0 +1,6 @@
+X1001
+Które protoko³y warstwy aplikacji u¿ywaj¹ protoko³u TCP (wybierz dwie odpowiedzi):
+FTP
+TFTP
+DHCP
+HTTP

@@ -1,0 +1,6 @@
+X0001
+Metoda dostêpu do medium CSMA/CD jest stosowana w sieciach:
+802.11
+Token Ring
+nie jest stosowane w sieciach komputerowych
+802.3

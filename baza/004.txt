@@ -1,0 +1,6 @@
+X0100
+Skalowalnoœæ to w³aœciwoœæ sieci polegaj¹ca na:
+skalowaniu ka¿dej us³ugi, tzn. zapewnieniu jej odpowiedniej jakoœci
+wprowadzenie do sieci nowych urz¹dzeñ i us³ug nie wp³ywa negatywnie na ju¿ istniej¹ce
+wprowadzenie do sieci nowych urz¹dzeñ i us³ug wp³ywa negatywnie na ju¿ istniej¹ce
+ka¿da sieæ ma okreœlon¹ skalê liczon¹ w liczbie u¿ytkowników na jednostkê powierzchni

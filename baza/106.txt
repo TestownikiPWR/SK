@@ -1,0 +1,6 @@
+X0001
+Jednostk¹ danych w warstwie fizycznej jest:
+ramka
+segment
+pakiet
+bit

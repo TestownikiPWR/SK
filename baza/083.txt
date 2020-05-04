@@ -1,0 +1,6 @@
+X0110
+Dobrze znane porty (wybierz dwie odpowiedzi):
+nie s¹ u¿ywane przez protoko³y warstwy transportowej
+s¹ przyporz¹dkowane do konkretnych protoko³ów warstwy aplikacji
+zawieraj¹ siê w zakresie od 0 do 1023
+konkretny protokó³ warstwy aplikacji (HTTP, FTP, DNS itp.) mo¿e mieæ przypisany dowolny dobrze znany port

@@ -1,0 +1,6 @@
+X1100
+Protokó³ TCP w porównaniu do UDP (wybierz dwie odpowiedzi):
+wprowadza wiêksze opóŸnienia transmisji
+zapewnia niezawodn¹ transmisjê
+wprowadza mniejszy narzut danych nag³ówkowych
+nie zapewnia dostarczania datagramów w poprawnej kolejnoœci

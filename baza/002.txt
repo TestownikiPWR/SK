@@ -1,0 +1,6 @@
+X0100
+Administrator dysponuje zakresem adresowym 100.100.110.192/26. Potrzebuje przydzieliæ adresy dla sieci zawieraj¹cej: 11 komputerów, 1 drukarkê i 3 rutery. Jaki jest ostatni u¿yteczny adres projektowanej podsieci przy za³o¿eniu, ¿e administrator stosuje VLSM:
+100.100.110.223
+100.100.110.222
+100.100.110.206
+100.100.110.207

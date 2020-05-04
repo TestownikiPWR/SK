@@ -1,0 +1,6 @@
+X1000
+Suma kontrolna ramki s³u¿y do:
+detekcji potencjalnych b³êdów w ramce
+okreœlenia czy ramka ma zawsze parzyst¹ liczbê bitów
+sprawdzenia poprawnoœci adresów MAC w nag³ówku ramki
+okreœlenia protoko³u warstwy sieciowej zawartego w polu danych ramki

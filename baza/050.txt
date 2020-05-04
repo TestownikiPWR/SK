@@ -1,0 +1,6 @@
+X1000
+W zapytaniu ARP wysy³anym przez komputer:
+adres docelowy MAC jest adresem rozg³oszeniowym
+adres docelowy MAC jest adresem grupowym
+adres docelowy MAC jest adresem indywidualnym
+adres Ÿród³owy MAC jest adresem rozg³oszeniowym

@@ -1,0 +1,6 @@
+X0100
+Zapytanie ARP:
+nie musi byæ wys³ane, gdy urz¹dzenie zna adres IP urz¹dzenia do którego chce wys³aæ informacje
+jest wysy³ane w celu uzyskania adresu MAC urz¹dzenia o znanym adresie IP
+jest wysy³ane w celu uzyskania adresu IP urz¹dzenia o znanym adresie MAC
+jest wysy³ane tylko w celu uzyskania adresu MAC bramy domyœlnej

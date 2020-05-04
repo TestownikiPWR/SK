@@ -1,0 +1,6 @@
+X0010
+Protokó³ IP dzia³a w trybie najlepszych dostêpnych œrodków (best effort), co oznacza, ¿e:
+dzia³anie protoko³u jest niezale¿ne od medium transmisyjnego
+przed wys³aniem danych nie jest zestawiane po³¹czenie z odbiorc¹
+dostarczenie pakietów nie jest us³ug¹ gwarantowan¹
+protokó³ zawsze gwarantuje maksymaln¹ jakoœæ us³ug

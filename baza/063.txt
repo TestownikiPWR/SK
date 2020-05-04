@@ -1,0 +1,6 @@
+X0101
+Do trójstronnego nawi¹zania po³¹czenia w protokole TCP u¿ywane s¹ flagi (wybierz dwie odpowiedzi):
+FIN
+SYN
+PSH
+ACK

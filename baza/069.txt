@@ -1,0 +1,6 @@
+X1000
+Do interfejsu rutera zosta³ przypisany ostatni adres u¿yteczny sieci 100.121.110.240/28. Adres ten to:
+100.121.110.254
+100.121.110.255
+100.121.110.246
+100.121.110.247

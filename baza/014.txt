@@ -1,0 +1,6 @@
+X0001
+Adresy IPv6 s¹:
+256 bitowe
+32 bitowe
+64 bitowe
+128 bitowe

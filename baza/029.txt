@@ -1,0 +1,6 @@
+X0110
+Wybierz poprawne stwierdzenie dotycz¹ce adresu ³¹cza lokalnego IPv6 (wybierz dwie odpowiedzi):
+podobny do prywatnych adresów IPv4
+nale¿y do zakresu FE80::/10
+ka¿dy interfejs sieciowy z w³¹czonym IPv6 wymaga adresu lokalnego ³¹cza
+u¿ywane do lokalnej adresacji w obrêbie witryny lub ma³ej grupy witryn

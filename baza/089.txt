@@ -1,0 +1,6 @@
+X0100
+Administrator dysponuje zakresem adresowym 156.17.31.224/27. Potrzebuje przygotowaæ podzia³ dla sieci zawieraj¹cej: 5 komputerów, 1 drukarkê i 1 ruter. Jaki jest ostatni u¿yteczny adres tej podsieci przy za³o¿eniu, ¿e administrator stosuje VLSM:
+156.17.31.239
+156.17.31.238
+156.17.31.231
+156.17.31.230
